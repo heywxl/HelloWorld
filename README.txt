@@ -1,0 +1,1 @@
+This is merely a text for git.
